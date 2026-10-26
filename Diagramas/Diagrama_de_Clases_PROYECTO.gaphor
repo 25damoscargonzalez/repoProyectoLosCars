@@ -3932,7 +3932,7 @@ class[name="Usuario"] {
 </UML:Class>
 <UML:ClassItem id="ee754ada-d064-11f1-b7a7-2c3b70f54fd6">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1914.9141994939835, 878.4068581195515)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 1879.6332364831833, 858.3817258203984)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -4048,7 +4048,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 1576.8124538570228, 674.141626602028)</val>
 </matrix>
 <points>
-<val>[(-300.3921526435905, -132.86310295414592), (379.3969708674715, 204.2652315175235)]</val>
+<val>[(-300.3921526435905, -132.86310295414592), (344.11600785667133, 184.24009921837035)]</val>
 </points>
 <head-connection>
 <ref refid="74c9221e-d060-11f1-aa9f-2c3b70f54fd6"/>
@@ -4080,23 +4080,35 @@ class[name="Usuario"] {
 <association>
 <ref refid="78cd9b68-d065-11f1-bac6-2c3b70f54fd6"/>
 </association>
+<lowerValue>
+<ref refid="8c75bf35-d10c-11f1-9e7b-2c3b70f54fd6"/>
+</lowerValue>
 <owningAssociation>
 <ref refid="78cd9b68-d065-11f1-bac6-2c3b70f54fd6"/>
 </owningAssociation>
 <type>
 <ref refid="cef30a01-4e3a-46f6-9d02-4b2b4dc458c0"/>
 </type>
+<upperValue>
+<ref refid="8c769300-d10c-11f1-a909-2c3b70f54fd6"/>
+</upperValue>
 </UML:Property>
 <UML:Property id="78cdea1b-d065-11f1-bd35-2c3b70f54fd6">
 <association>
 <ref refid="78cd9b68-d065-11f1-bac6-2c3b70f54fd6"/>
 </association>
+<lowerValue>
+<ref refid="838f9de1-d10c-11f1-b124-2c3b70f54fd6"/>
+</lowerValue>
 <owningAssociation>
 <ref refid="78cd9b68-d065-11f1-bac6-2c3b70f54fd6"/>
 </owningAssociation>
 <type>
 <ref refid="ee74bdb1-d064-11f1-98cf-2c3b70f54fd6"/>
 </type>
+<upperValue>
+<ref refid="83913968-d10c-11f1-8285-2c3b70f54fd6"/>
+</upperValue>
 </UML:Property>
 <UML:Class id="8dfa4334-d065-11f1-8049-2c3b70f54fd6">
 <clientDependency>
@@ -4185,7 +4197,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 2100.5622231848592, 878.2399775597794)</val>
 </matrix>
 <points>
-<val>[(-24.64802369087556, 66.18139423392847), (184.21900940149908, 51.16688055977215)]</val>
+<val>[(-59.92898670167597, 46.15626193477533), (184.21900940149908, 51.16688055977215)]</val>
 </points>
 <head-connection>
 <ref refid="ee754ada-d064-11f1-b7a7-2c3b70f54fd6"/>
@@ -4228,7 +4240,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 1978.4184696369125, 1017.6878569660837)</val>
 </matrix>
 <points>
-<val>[(97.49572985707073, -15.67745177754739), (336.0473407028253, 12.822548222452724)]</val>
+<val>[(62.21476684627078, -35.70258407670053), (336.0473407028253, 12.822548222452724)]</val>
 </points>
 <head-connection>
 <ref refid="ee754ada-d064-11f1-b7a7-2c3b70f54fd6"/>
@@ -4524,7 +4536,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 1947.663199952271, 819.9527129673166)</val>
 </matrix>
 <points>
-<val>[(53.09272242972361, -82.35190036754909), (68.47913724545879, 58.4541451522349)]</val>
+<val>[(53.09272242972361, -82.35190036754909), (33.19817423465838, 38.42901285308176)]</val>
 </points>
 <head-connection>
 <ref refid="8b361a11-d064-11f1-9e72-2c3b70f54fd6"/>
@@ -5720,7 +5732,7 @@ class[name="Usuario"] {
 </UML:Property>
 <UML:ClassItem id="94baf219-d068-11f1-81df-2c3b70f54fd6">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 2209.0396974108003, -372.0229336751732)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2135.4636219548906, -377.4855642811913)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -5740,7 +5752,7 @@ class[name="Usuario"] {
 </UML:ClassItem>
 <UML:ClassItem id="96f84a42-d068-11f1-ab9c-2c3b70f54fd6">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 2672.5405694867277, -258.4855642811912)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2575.734299140532, -258.4855642811912)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -5775,7 +5787,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 2183.8438310667307, -133.91833713039136)</val>
 </matrix>
 <points>
-<val>[(-146.68168248242966, -121.10459654478183), (0.6356648566356853, 67.01205149931879)]</val>
+<val>[(-194.63155842858214, -81.06722715079997), (0.6356648566356853, 67.01205149931879)]</val>
 </points>
 <head-connection>
 <ref refid="926f2c87-d068-11f1-b30c-2c3b70f54fd6"/>
@@ -5801,7 +5813,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 2510.996345698519, -133.91833713039136)</val>
 </matrix>
 <points>
-<val>[(-222.58588069993993, -134.10459654478183), (-274.7949465383999, 22.25610501009365)]</val>
+<val>[(-296.1619561558491, -139.5672271507999), (-274.7949465383999, 22.25610501009365)]</val>
 </points>
 <head-connection>
 <ref refid="94baf219-d068-11f1-81df-2c3b70f54fd6"/>
@@ -5824,7 +5836,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 2502.7289536320113, -138.64256116839545)</val>
 </matrix>
 <points>
-<val>[(2.987553728243711, -125.41978654515219), (-185.1200827914929, 26.9803290480977)]</val>
+<val>[(-43.81987369189483, -134.84300311279588), (-185.1200827914929, 26.9803290480977)]</val>
 </points>
 <head-connection>
 <ref refid="97d24710-d068-11f1-8ab5-2c3b70f54fd6"/>
@@ -5847,7 +5859,7 @@ class[name="Usuario"] {
 <val>(1.0, 0.0, 0.0, 1.0, 2581.859706268581, -102.02982487386328)</val>
 </matrix>
 <points>
-<val>[(90.6808632181469, -70.9182364980291), (-274.38021034521444, 74.36759275356553)]</val>
+<val>[(-6.125407128048664, -70.9182364980291), (-274.38021034521444, 74.36759275356553)]</val>
 </points>
 <head-connection>
 <ref refid="96f84a42-d068-11f1-ab9c-2c3b70f54fd6"/>
@@ -5858,7 +5870,7 @@ class[name="Usuario"] {
 </UML:GeneralizationItem>
 <UML:ClassItem id="926f2c87-d068-11f1-b30c-2c3b70f54fd6">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1965.6621485843011, -372.0229336751732)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 1917.7122726381488, -331.98556428119133)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -5878,7 +5890,7 @@ class[name="Usuario"] {
 </UML:ClassItem>
 <UML:ClassItem id="97d24710-d068-11f1-8ab5-2c3b70f54fd6">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 2443.281232586358, -364.06234771354764)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 2396.4738051662193, -373.4855642811913)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -6839,6 +6851,50 @@ class[name="Usuario"] {
 </name>
 <owningUpper>
 <ref refid="70db90ed-d067-11f1-ac6b-2c3b70f54fd6"/>
+</owningUpper>
+<value>
+<val>*</val>
+</value>
+</UML:LiteralUnlimitedNatural>
+<UML:LiteralInteger id="838f9de1-d10c-11f1-b124-2c3b70f54fd6">
+<name>
+<val>0</val>
+</name>
+<owningLower>
+<ref refid="78cdea1b-d065-11f1-bd35-2c3b70f54fd6"/>
+</owningLower>
+<value>
+<val>0</val>
+</value>
+</UML:LiteralInteger>
+<UML:LiteralUnlimitedNatural id="83913968-d10c-11f1-8285-2c3b70f54fd6">
+<name>
+<val>*</val>
+</name>
+<owningUpper>
+<ref refid="78cdea1b-d065-11f1-bd35-2c3b70f54fd6"/>
+</owningUpper>
+<value>
+<val>*</val>
+</value>
+</UML:LiteralUnlimitedNatural>
+<UML:LiteralInteger id="8c75bf35-d10c-11f1-9e7b-2c3b70f54fd6">
+<name>
+<val>0</val>
+</name>
+<owningLower>
+<ref refid="78cde527-d065-11f1-8c94-2c3b70f54fd6"/>
+</owningLower>
+<value>
+<val>0</val>
+</value>
+</UML:LiteralInteger>
+<UML:LiteralUnlimitedNatural id="8c769300-d10c-11f1-a909-2c3b70f54fd6">
+<name>
+<val>*</val>
+</name>
+<owningUpper>
+<ref refid="78cde527-d065-11f1-8c94-2c3b70f54fd6"/>
 </owningUpper>
 <value>
 <val>*</val>
